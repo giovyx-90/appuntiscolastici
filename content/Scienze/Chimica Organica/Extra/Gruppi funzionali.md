@@ -1,0 +1,1 @@
+![[gruppi-funzionali.jpg]]
