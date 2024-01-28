@@ -10,4 +10,7 @@ Ecco i miei appunti in ordine:
 - [[06c. Eteri]]
 - [[06b. Fenoli]]
 - [[06c. Eteri]]
+- [[07. Aldeidi e Chetoni]]
+- [[08. Acidi Carbossilici]]
+- [[09. Esteri e Saponi]]
 -
